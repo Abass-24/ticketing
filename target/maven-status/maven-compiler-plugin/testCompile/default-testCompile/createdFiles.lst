@@ -1,0 +1,5 @@
+com/dreamsoft/ticketing/repository/TicketRepositoryTest.class
+com/dreamsoft/ticketing/repository/UserRepositoryTest.class
+com/dreamsoft/ticketing/service/UserServiceTest.class
+com/dreamsoft/ticketing/TicketingApplicationTests.class
+com/dreamsoft/ticketing/service/TicketServiceTest.class
